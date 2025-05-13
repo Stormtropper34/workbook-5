@@ -23,6 +23,7 @@ public class Main {
 
         System.out.println("Moped color: " + slowRide.getColor() );
         System.out.println("Car color: " + fastRide.getColor());
+        System.out.println("Is the car manual? " + fastRide.isManual());
 
 
     }
